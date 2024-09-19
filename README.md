@@ -4,3 +4,4 @@
 # Variables examples weight, height, BMI, physical activity, diet, smoking, etc.
 
 Transient-Ischemic-Attack.R: TIA vairable data read, scaling, Support vector machine analysis, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC, Visualization.
+function(setwd, read.csv, library, set.seed, sample.split, subset, na.omit, scale, svm, predict, table, plot)
