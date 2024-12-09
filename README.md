@@ -1,4 +1,4 @@
-# Transient-Ischemic-Attack-prediction(TIA)-Machine-Learning* [R]. Artificial intelligence (AI). December, 9, 2024.
+# Transient-Ischemic-Attack-prediction(TIA)-Machine-Learning* [R]. Artificial intelligence (AI). Date created/updated: December, 9, 2024.
 # [Claflin University, Orangeburg, South Carolina, United States of America (USA).](https://www.claflin.edu/) https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 # Transient Ischemic Attack (TIA) prediction using support vector machines (SVM), Collaboration with Dr. A. Hande, Department of Neurological Surgery, Fortis Hospital, Navi Mumbai. https://www.drashokhande.com/about-us
 # Variables examples weight, height, BMI, physical activity, diet, smoking, etc.
