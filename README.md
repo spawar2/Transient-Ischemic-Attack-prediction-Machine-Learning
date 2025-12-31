@@ -5,7 +5,7 @@
 A transient ischemic attack, or TIA, is a temporary blockage of blood flow to the brain. 
 Transient-Ischemic-Attack.R: TIA vairable data read, scaling, Support vector machine analysis, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC, Visualization.
 selected function(setwd, read.csv, library, set.seed, sample.split, subset, na.omit, scale, svm, predict, table, plot).
-
+Accuracy (3, 5, 10 Fold similar values).
 
 https://www.java.com/
 https://www.php.net/
